@@ -7,4 +7,4 @@ standard assumption is that in each step, a single edge is added to the graph or
 from it, such a step is called an edge updated or shortly an update. A simple greedy 
 algorithm computes a maximal matching in 𝑂(𝑚) time, so recomputing a maximal
 matching would cost 𝑂(𝑚) per update. Neiman and Solomon’s algorithm manages 
-maintains explicitly a maximal matching in 𝑂(√𝑚 + 𝑛) worst-case update time
+maintains explicitly a maximal matching in 𝑂(√𝑚 + 𝑛) worst-case update time.
